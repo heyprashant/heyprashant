@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant</h1>
-<h3>Passionate, driven and ambitious software developer with strong problem solving & analytical skills having experience in JavaScript-based technologies. Proficient in React.js /Redux.js and always eager to learn something new.</h3>
+<h3>Passionate, driven and ambitious software developer with strong problem solving & analytical skills having experience in JavaScript-based technologies. Proficient in Node.js, React.js /Redux.js and always eager to learn something new.</h3>
 
 - 🔭 I’m currently working on **React.js / Redux.js**
 
