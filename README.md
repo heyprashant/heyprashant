@@ -3,8 +3,8 @@
 Proficient in JavaScript and comfortable with Node.js, React.js - Redux.js, MongoDB - Mongoose. Always eager to learn something new.</h3>
 
 - 🔭 I’m currently working on **Node.js / Express**
- 
--🌱 Familiar with **React.Js, Redux, MongoDB, SCSS**
+
+- 🌱 Familiar with **React.Js, Redux, MongoDB, SCSS**
 
 - 📫 How to reach me **prashant.p7804@gmail.com**
 
