@@ -2,13 +2,11 @@
 <h3>Passionate, driven and ambitious software developer with strong problem solving & analytical skills having experience in JavaScript-based technologies.
 Proficient in JavaScript and comfortable with Node.js, React.js - Redux.js, MongoDB - Mongoose. Always eager to learn something new.</h3>
 
-- 🔭 I’m currently working on **React.js / Redux.js**
-
-- 🌱 I’m currently learning **Node.js, React Native**
-
-- 💬 Ask me about **any Meme trends**
+- 🔭 I’m currently working on **Node.js / Express**
 
 - 📫 How to reach me **prashant.p7804@gmail.com**
+
+- 💬 Ask me about **any Meme trends**
 
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/>
