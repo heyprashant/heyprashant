@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prashant</h1>
 <h3>Passionate and ambitious software developer with strong problem solving & analytical skills having experience in JavaScript-based technologies.
-Proficient in JavaScript and comfortable with Node.js, React.js - Redux.js, MongoDB - Mongoose. Always eager to learn something new.</h3>
+Proficient in JavaScript and comfortable with Node.js, Express.js, React.js - Redux.js, MongoDB - Mongoose. Always eager to learn something new.</h3>
 
 - 🔭 I’m currently working on **Node.js / Express**
 
