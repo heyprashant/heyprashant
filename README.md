@@ -2,13 +2,6 @@
 <h3>Passionate and ambitious software developer with strong problem solving & analytical skills having experience in JavaScript-based technologies.
 Proficient in JavaScript and comfortable with Node.js, Express.js, React.js - Redux.js, MongoDB - Mongoose. Always eager to learn something new.</h3>
 
-- 🔭 I’m currently working on **Node.js / Express**
-
-- 🌱 Familiar with **React.Js, Redux, MongoDB, SCSS**
-
-- 📫 How to reach me **prashant.p7804@gmail.com**
-
-- 💬 Ask me about **any Meme trends**
 
 
 <p align="center">
